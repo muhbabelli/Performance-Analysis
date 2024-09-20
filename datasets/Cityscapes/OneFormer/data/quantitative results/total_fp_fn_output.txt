@@ -1,0 +1,57 @@
+Class road :
+FP Rate : 0.0033, FN Rate : 0.0099
+--------------------
+Class sidewalk :
+FP Rate : 0.0052, FN Rate : 0.0498
+--------------------
+Class building :
+FP Rate : 0.0099, FN Rate : 0.0296
+--------------------
+Class wall :
+FP Rate : 0.0017, FN Rate : 0.22
+--------------------
+Class fence :
+FP Rate : 0.0012, FN Rate : 0.2015
+--------------------
+Class pole :
+FP Rate : 0.0021, FN Rate : 0.1761
+--------------------
+Class traffic light :
+FP Rate : 0.0003, FN Rate : 0.1253
+--------------------
+Class traffic sign :
+FP Rate : 0.0005, FN Rate : 0.0878
+--------------------
+Class vegetation :
+FP Rate : 0.0072, FN Rate : 0.0412
+--------------------
+Class terrain :
+FP Rate : 0.0015, FN Rate : 0.2222
+--------------------
+Class sky :
+FP Rate : 0.0009, FN Rate : 0.0158
+--------------------
+Class person :
+FP Rate : 0.0011, FN Rate : 0.0596
+--------------------
+Class rider :
+FP Rate : 0.0003, FN Rate : 0.1473
+--------------------
+Class car :
+FP Rate : 0.0014, FN Rate : 0.0165
+--------------------
+Class truck :
+FP Rate : 0.0001, FN Rate : 0.0622
+--------------------
+Class bus :
+FP Rate : 0.0002, FN Rate : 0.033
+--------------------
+Class train :
+FP Rate : 0.0001, FN Rate : 0.1001
+--------------------
+Class motorcycle :
+FP Rate : 0.0001, FN Rate : 0.1666
+--------------------
+Class bicycle :
+FP Rate : 0.0008, FN Rate : 0.1107
+--------------------

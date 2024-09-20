@@ -1,0 +1,65 @@
+MODEL:
+  BACKBONE:
+    NAME: DINOv2
+    VERSION: dinov2_vitb14_reg
+    FEATURES_TYPE: x_norm_patchtokens
+    INTERM_FEATURES: [3,5,7,11] # Should be either None or list of 4 levels where intermediate features are taken    
+    FREEZE: True
+    LEARNABLE_PARAMS:
+      TYPE: fpn
+      IN_CHANNELS: [768, 768, 768, 768] # This param is overwritten in the code because it can be computed from input and output channels but it will be left in case we want to control it later
+      OUTPUT_DIM: 256
+  SEGMENTATION_HEAD:
+    NAME: GMMSegHead
+    EMBEDDING_DIM: 1024 # this should match the output_dim of the backbone, consistency rule is added in the code
+    NUM_CLASSES: 19
+    NUM_COMPONENTS_PER_CLASS: 5
+    UPDATE_INTERVAL: 5
+    GAMMA_MEAN: 0.999
+    GAMMA_COV: 0
+    MEMORY_SIZE: 32000
+    SINKHORN_FACTORS: [1,1,1]
+    MAX_SAMPLE_SIZE: 20 # maximum number of samples in memory per component
+    IGNORE_CLASS: 255
+    DISTRIBUTED_TRAINING: True
+  NUM_CLASSES: 19
+  IGNORE_INDEX: 255
+  LOSS:
+    NAME: gmm_seg
+    EPS: 1e-6
+    CONTRAST_LOSS_WEIGHT: 0.01
+
+SOLVER:
+  LR: 5.0e-4
+  OPTIMIZER: AdamW
+  WEIGHT_DECAY: 0.0
+  LR_SCHEDULER: 
+    NAME: PolyWithLinearWarmup
+    NUM_WARMUP_STEPS: 1500
+    LR_END: 1.0e-7
+    POWER: 1.0
+    LAST_EPOCH: -1
+  BATCH_SIZE: 4
+  PRECISION: bf16-mixed
+  MAX_STEPS: 90000
+  LOG_EVERY_N_STEPS: 100
+  NUM_WORKERS: 8
+  VAL_CHECK_INTERVAL: 2000
+  EVAL_MODE: sliding_window
+  EVAL_WINDOW_SIZE: [518, 1036]
+  EVAL_STRIDE: [140, 140]
+DATA:
+  MODULE: SemanticSegmentation
+  NAME: cityscapes
+  DATASET_ROOT: '/work/shoeb/datasets/Cityscapes'
+  TARGET_TYPE: semantic_trainids
+
+CKPT:
+  DIR_PATH: ckpts/segmentation/
+
+WANDB:
+  ACTIVATE: True
+  RUN_NAME: GMM_seg_dinov2_b_fpn_3_5_7_11
+  PROJECT: UAE_segmentation
+
+RANDOM_SEED: 2000

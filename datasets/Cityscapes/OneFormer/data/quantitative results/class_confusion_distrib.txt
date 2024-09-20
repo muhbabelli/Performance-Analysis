@@ -1,0 +1,399 @@
+class 'ROAD' is being confused with the following classes distribution: 
+sidewalk: 0.761
+car: 0.106
+terrain: 0.034
+person: 0.026
+bicycle: 0.012
+vegetation: 0.01
+pole: 0.01
+fence: 0.009
+building: 0.009
+bus: 0.005
+traffic sign: 0.005
+sky: 0.003
+wall: 0.003
+truck: 0.002
+rider: 0.002
+motorcycle: 0.001
+train: 0.001
+traffic light: 0.0
+----------------
+
+class 'SIDEWALK' is being confused with the following classes distribution: 
+road: 0.5
+terrain: 0.107
+building: 0.086
+pole: 0.059
+vegetation: 0.053
+wall: 0.041
+person: 0.039
+fence: 0.038
+car: 0.036
+bicycle: 0.031
+rider: 0.003
+motorcycle: 0.002
+traffic sign: 0.002
+bus: 0.001
+truck: 0.001
+train: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'BUILDING' is being confused with the following classes distribution: 
+vegetation: 0.458
+pole: 0.129
+wall: 0.099
+person: 0.053
+sidewalk: 0.045
+sky: 0.042
+fence: 0.039
+car: 0.035
+traffic sign: 0.031
+bicycle: 0.028
+traffic light: 0.016
+train: 0.005
+truck: 0.005
+rider: 0.005
+bus: 0.003
+terrain: 0.003
+motorcycle: 0.002
+road: 0.001
+----------------
+
+class 'WALL' is being confused with the following classes distribution: 
+building: 0.433
+sidewalk: 0.208
+fence: 0.137
+vegetation: 0.104
+terrain: 0.055
+pole: 0.016
+car: 0.014
+person: 0.013
+bicycle: 0.009
+road: 0.004
+traffic sign: 0.003
+rider: 0.002
+motorcycle: 0.001
+truck: 0.001
+train: 0.0
+bus: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'FENCE' is being confused with the following classes distribution: 
+wall: 0.384
+building: 0.296
+vegetation: 0.116
+sidewalk: 0.043
+pole: 0.031
+terrain: 0.024
+traffic sign: 0.023
+person: 0.019
+bicycle: 0.016
+road: 0.014
+car: 0.012
+motorcycle: 0.011
+train: 0.008
+truck: 0.002
+rider: 0.001
+bus: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'POLE' is being confused with the following classes distribution: 
+building: 0.431
+vegetation: 0.243
+sidewalk: 0.081
+fence: 0.037
+car: 0.03
+traffic light: 0.028
+person: 0.025
+traffic sign: 0.025
+terrain: 0.023
+bicycle: 0.02
+sky: 0.02
+wall: 0.014
+road: 0.013
+train: 0.003
+bus: 0.003
+motorcycle: 0.002
+rider: 0.002
+truck: 0.001
+----------------
+
+class 'TRAFFIC LIGHT' is being confused with the following classes distribution: 
+building: 0.402
+vegetation: 0.336
+pole: 0.209
+sky: 0.029
+traffic sign: 0.013
+bus: 0.003
+train: 0.002
+car: 0.002
+person: 0.002
+truck: 0.001
+rider: 0.001
+fence: 0.001
+bicycle: 0.0
+motorcycle: 0.0
+terrain: 0.0
+wall: 0.0
+sidewalk: 0.0
+road: 0.0
+----------------
+
+class 'TRAFFIC SIGN' is being confused with the following classes distribution: 
+building: 0.461
+vegetation: 0.206
+pole: 0.131
+fence: 0.092
+car: 0.022
+road: 0.02
+person: 0.016
+sidewalk: 0.014
+traffic light: 0.01
+sky: 0.008
+bicycle: 0.005
+wall: 0.005
+bus: 0.003
+truck: 0.003
+rider: 0.002
+motorcycle: 0.001
+train: 0.001
+terrain: 0.001
+----------------
+
+class 'VEGETATION' is being confused with the following classes distribution: 
+building: 0.539
+terrain: 0.121
+pole: 0.079
+sky: 0.073
+sidewalk: 0.038
+fence: 0.032
+car: 0.023
+wall: 0.023
+person: 0.017
+traffic sign: 0.015
+traffic light: 0.011
+bicycle: 0.009
+road: 0.009
+bus: 0.004
+rider: 0.003
+motorcycle: 0.001
+train: 0.001
+truck: 0.001
+----------------
+
+class 'TERRAIN' is being confused with the following classes distribution: 
+vegetation: 0.485
+sidewalk: 0.348
+road: 0.049
+fence: 0.029
+wall: 0.025
+building: 0.019
+pole: 0.018
+bicycle: 0.011
+car: 0.011
+person: 0.003
+rider: 0.001
+traffic sign: 0.001
+motorcycle: 0.0
+train: 0.0
+bus: 0.0
+truck: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'SKY' is being confused with the following classes distribution: 
+vegetation: 0.6
+building: 0.297
+pole: 0.077
+traffic light: 0.012
+traffic sign: 0.008
+train: 0.003
+truck: 0.001
+rider: 0.001
+person: 0.001
+bicycle: 0.0
+motorcycle: 0.0
+bus: 0.0
+car: 0.0
+terrain: 0.0
+fence: 0.0
+wall: 0.0
+sidewalk: 0.0
+road: 0.0
+----------------
+
+class 'PERSON' is being confused with the following classes distribution: 
+building: 0.314
+rider: 0.128
+sidewalk: 0.118
+bicycle: 0.088
+car: 0.078
+vegetation: 0.075
+road: 0.075
+pole: 0.069
+fence: 0.02
+wall: 0.014
+motorcycle: 0.008
+traffic sign: 0.005
+train: 0.003
+bus: 0.002
+terrain: 0.002
+truck: 0.001
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'RIDER' is being confused with the following classes distribution: 
+bicycle: 0.392
+person: 0.33
+building: 0.072
+vegetation: 0.064
+car: 0.045
+motorcycle: 0.035
+road: 0.018
+sidewalk: 0.017
+pole: 0.01
+traffic sign: 0.006
+wall: 0.004
+bus: 0.003
+fence: 0.003
+terrain: 0.002
+train: 0.0
+truck: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'CAR' is being confused with the following classes distribution: 
+road: 0.292
+building: 0.169
+vegetation: 0.144
+bicycle: 0.07
+person: 0.069
+sidewalk: 0.063
+pole: 0.05
+truck: 0.045
+fence: 0.026
+rider: 0.018
+bus: 0.016
+terrain: 0.013
+motorcycle: 0.009
+wall: 0.007
+traffic sign: 0.005
+train: 0.001
+sky: 0.001
+traffic light: 0.0
+----------------
+
+class 'TRUCK' is being confused with the following classes distribution: 
+car: 0.351
+building: 0.248
+wall: 0.11
+vegetation: 0.102
+road: 0.066
+motorcycle: 0.025
+sidewalk: 0.025
+pole: 0.019
+sky: 0.016
+rider: 0.011
+bicycle: 0.009
+person: 0.007
+traffic sign: 0.006
+terrain: 0.005
+bus: 0.002
+fence: 0.001
+train: 0.0
+traffic light: 0.0
+----------------
+
+class 'BUS' is being confused with the following classes distribution: 
+car: 0.288
+building: 0.242
+vegetation: 0.158
+road: 0.149
+pole: 0.037
+fence: 0.035
+person: 0.022
+truck: 0.015
+wall: 0.014
+sidewalk: 0.011
+traffic sign: 0.007
+bicycle: 0.006
+rider: 0.006
+traffic light: 0.006
+terrain: 0.003
+motorcycle: 0.001
+train: 0.0
+sky: 0.0
+----------------
+
+class 'TRAIN' is being confused with the following classes distribution: 
+bus: 0.493
+building: 0.175
+vegetation: 0.129
+sky: 0.067
+car: 0.037
+road: 0.029
+pole: 0.025
+person: 0.012
+motorcycle: 0.011
+traffic sign: 0.008
+traffic light: 0.007
+fence: 0.004
+terrain: 0.001
+sidewalk: 0.001
+bicycle: 0.0
+truck: 0.0
+rider: 0.0
+wall: 0.0
+----------------
+
+class 'MOTORCYCLE' is being confused with the following classes distribution: 
+bicycle: 0.381
+person: 0.136
+rider: 0.087
+building: 0.081
+car: 0.079
+fence: 0.061
+sidewalk: 0.06
+pole: 0.046
+vegetation: 0.03
+road: 0.018
+train: 0.009
+wall: 0.005
+terrain: 0.004
+traffic sign: 0.002
+bus: 0.0
+truck: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+
+class 'BICYCLE' is being confused with the following classes distribution: 
+building: 0.248
+rider: 0.149
+sidewalk: 0.103
+person: 0.095
+vegetation: 0.076
+motorcycle: 0.067
+car: 0.065
+pole: 0.065
+fence: 0.063
+road: 0.043
+terrain: 0.015
+wall: 0.009
+bus: 0.001
+traffic sign: 0.001
+train: 0.0
+truck: 0.0
+sky: 0.0
+traffic light: 0.0
+----------------
+

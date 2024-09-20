@@ -1,0 +1,151 @@
+CKPT: !!python/object/new:easydict.EasyDict
+  dictitems:
+    DIR_PATH: ckpts/segmentation/
+  state:
+    DIR_PATH: ckpts/segmentation/
+DATA: !!python/object/new:easydict.EasyDict
+  dictitems:
+    DATASET_ROOT: /work/shoeb/datasets/Cityscapes
+    MODULE: SemanticSegmentation
+    NAME: cityscapes
+    TARGET_TYPE: semantic_trainids
+  state:
+    DATASET_ROOT: /work/shoeb/datasets/Cityscapes
+    MODULE: SemanticSegmentation
+    NAME: cityscapes
+    TARGET_TYPE: semantic_trainids
+MODEL: !!python/object/new:easydict.EasyDict
+  dictitems:
+    BACKBONE: &id005 !!python/object/new:easydict.EasyDict
+      dictitems:
+        FEATURES_TYPE: x_norm_patchtokens
+        FREEZE: true
+        INTERM_FEATURES: &id002
+        - 3
+        - 5
+        - 7
+        - 11
+        LEARNABLE_PARAMS: &id003 !!python/object/new:easydict.EasyDict
+          dictitems:
+            IN_CHANNELS: &id001
+            - 768
+            - 768
+            - 768
+            - 768
+            OUTPUT_DIM: 256
+            TYPE: fpn
+          state:
+            IN_CHANNELS: *id001
+            OUTPUT_DIM: 256
+            TYPE: fpn
+        NAME: DINOv2
+        VERSION: dinov2_vitb14_reg
+      state:
+        FEATURES_TYPE: x_norm_patchtokens
+        FREEZE: true
+        INTERM_FEATURES: *id002
+        LEARNABLE_PARAMS: *id003
+        NAME: DINOv2
+        VERSION: dinov2_vitb14_reg
+    IGNORE_INDEX: 255
+    LOSS: &id006 !!python/object/new:easydict.EasyDict
+      dictitems:
+        CONTRAST_LOSS_WEIGHT: 0.01
+        EPS: 1e-6
+        NAME: gmm_seg
+      state:
+        CONTRAST_LOSS_WEIGHT: 0.01
+        EPS: 1e-6
+        NAME: gmm_seg
+    NUM_CLASSES: 19
+    SEGMENTATION_HEAD: &id007 !!python/object/new:easydict.EasyDict
+      dictitems:
+        DISTRIBUTED_TRAINING: true
+        EMBEDDING_DIM: 256
+        GAMMA_COV: 0
+        GAMMA_MEAN: 0.999
+        IGNORE_CLASS: 255
+        MAX_SAMPLE_SIZE: 20
+        MEMORY_SIZE: 32000
+        NAME: GMMSegHead
+        NUM_CLASSES: 19
+        NUM_COMPONENTS_PER_CLASS: 5
+        SINKHORN_FACTORS: &id004
+        - 1
+        - 1
+        - 1
+        UPDATE_INTERVAL: 5
+      state:
+        DISTRIBUTED_TRAINING: true
+        EMBEDDING_DIM: 256
+        GAMMA_COV: 0
+        GAMMA_MEAN: 0.999
+        IGNORE_CLASS: 255
+        MAX_SAMPLE_SIZE: 20
+        MEMORY_SIZE: 32000
+        NAME: GMMSegHead
+        NUM_CLASSES: 19
+        NUM_COMPONENTS_PER_CLASS: 5
+        SINKHORN_FACTORS: *id004
+        UPDATE_INTERVAL: 5
+  state:
+    BACKBONE: *id005
+    IGNORE_INDEX: 255
+    LOSS: *id006
+    NUM_CLASSES: 19
+    SEGMENTATION_HEAD: *id007
+RANDOM_SEED: 2000
+SOLVER: !!python/object/new:easydict.EasyDict
+  dictitems:
+    BATCH_SIZE: 4
+    EVAL_MODE: sliding_window
+    EVAL_STRIDE: &id008
+    - 140
+    - 140
+    EVAL_WINDOW_SIZE: &id009
+    - 518
+    - 1036
+    LOG_EVERY_N_STEPS: 100
+    LR: 0.0005
+    LR_SCHEDULER: &id010 !!python/object/new:easydict.EasyDict
+      dictitems:
+        LAST_EPOCH: -1
+        LR_END: 1.0e-07
+        NAME: PolyWithLinearWarmup
+        NUM_WARMUP_STEPS: 1500
+        POWER: 1.0
+      state:
+        LAST_EPOCH: -1
+        LR_END: 1.0e-07
+        NAME: PolyWithLinearWarmup
+        NUM_WARMUP_STEPS: 1500
+        POWER: 1.0
+    MAX_STEPS: 90000
+    NUM_WORKERS: 8
+    OPTIMIZER: AdamW
+    PRECISION: bf16-mixed
+    VAL_CHECK_INTERVAL: 2000
+    WEIGHT_DECAY: 0.0
+  state:
+    BATCH_SIZE: 4
+    EVAL_MODE: sliding_window
+    EVAL_STRIDE: *id008
+    EVAL_WINDOW_SIZE: *id009
+    LOG_EVERY_N_STEPS: 100
+    LR: 0.0005
+    LR_SCHEDULER: *id010
+    MAX_STEPS: 90000
+    NUM_WORKERS: 8
+    OPTIMIZER: AdamW
+    PRECISION: bf16-mixed
+    VAL_CHECK_INTERVAL: 2000
+    WEIGHT_DECAY: 0.0
+WANDB: !!python/object/new:easydict.EasyDict
+  dictitems:
+    ACTIVATE: true
+    PROJECT: UAE_segmentation
+    RUN_NAME: GMM_seg_dinov2_b_fpn_3_5_7_11_B:DINOv2_SH:GMMSegHead_
+  state:
+    ACTIVATE: true
+    PROJECT: UAE_segmentation
+    RUN_NAME: GMM_seg_dinov2_b_fpn_3_5_7_11_B:DINOv2_SH:GMMSegHead_

@@ -1,0 +1,1 @@
+python evaluate_cityscapes.py --ckpt $ckpt --devices 0

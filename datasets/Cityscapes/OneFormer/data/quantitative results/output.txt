@@ -1,0 +1,1124 @@
+IMAGE SAVED ! IoU of class wall in img_25.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_26.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_41.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_50.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_61.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_65.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_68.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_71.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_94.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_104.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_114.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_115.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_116.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_117.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_140.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_145.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_165.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_175.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_176.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_180.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_182.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_183.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_221.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_230.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_248.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_249.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_313.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_319.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_348.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class wall in img_406.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_4.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_88.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_100.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_103.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_108.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_173.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_187.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_229.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_257.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_258.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_265.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_275.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_293.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_296.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_303.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_374.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_387.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_407.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_433.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class terrain in img_310.png: 0.012308400124311447
+--------------
+IMAGE SAVED ! IoU of class terrain in img_157.png: 0.01381673477590084
+--------------
+IMAGE SAVED ! IoU of class terrain in img_28.png: 0.6053359508514404
+--------------
+IMAGE SAVED ! IoU of class terrain in img_165.png: 1.1040273904800415
+--------------
+IMAGE SAVED ! IoU of class terrain in img_16.png: 1.246591329574585
+--------------
+IMAGE SAVED ! IoU of class terrain in img_104.png: 1.5843430757522583
+--------------
+IMAGE SAVED ! IoU of class terrain in img_160.png: 1.7028834819793701
+--------------
+IMAGE SAVED ! IoU of class terrain in img_105.png: 1.783069372177124
+--------------
+IMAGE SAVED ! IoU of class terrain in img_159.png: 1.9456617832183838
+--------------
+IMAGE SAVED ! IoU of class terrain in img_423.png: 3.090791940689087
+--------------
+IMAGE SAVED ! IoU of class terrain in img_278.png: 3.3519554138183594
+--------------
+IMAGE SAVED ! IoU of class fence in img_1.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_32.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_76.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_84.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_100.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_115.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_125.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_147.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_161.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_165.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_272.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_296.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_326.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_355.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_373.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_376.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_431.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_453.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class fence in img_23.png: 0.29748284816741943
+--------------
+IMAGE SAVED ! IoU of class fence in img_245.png: 1.1362099647521973
+--------------
+IMAGE SAVED ! IoU of class fence in img_256.png: 1.470202088356018
+--------------
+IMAGE SAVED ! IoU of class fence in img_46.png: 2.1459226608276367
+--------------
+IMAGE SAVED ! IoU of class fence in img_50.png: 4.949196815490723
+--------------
+IMAGE SAVED ! IoU of class fence in img_207.png: 6.236486434936523
+--------------
+IMAGE SAVED ! IoU of class fence in img_104.png: 11.207235336303711
+--------------
+IMAGE SAVED ! IoU of class fence in img_38.png: 15.014163970947266
+--------------
+IMAGE SAVED ! IoU of class fence in img_45.png: 17.421125411987305
+--------------
+IMAGE SAVED ! IoU of class fence in img_17.png: 18.266122817993164
+--------------
+IMAGE SAVED ! IoU of class fence in img_432.png: 18.705036163330078
+--------------
+IMAGE SAVED ! IoU of class fence in img_126.png: 19.679141998291016
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_91.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_96.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_104.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_124.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_134.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_138.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_159.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_180.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_249.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_256.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_355.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_395.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_399.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_409.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_413.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_423.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_441.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_463.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_398.png: 7.847533226013184
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_92.png: 16.59819221496582
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_47.png: 26.558265686035156
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_234.png: 30.410057067871094
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_350.png: 32.826087951660156
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_474.png: 33.59375
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_262.png: 35.4614372253418
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_130.png: 37.16814041137695
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_81.png: 39.58142852783203
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_383.png: 44.967533111572266
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_386.png: 47.587013244628906
+--------------
+IMAGE SAVED ! IoU of class motorcycle in img_100.png: 48.07692337036133
+--------------
+IMAGE SAVED ! IoU of class pole in img_310.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class pole in img_426.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class pole in img_312.png: 0.1143728494644165
+--------------
+IMAGE SAVED ! IoU of class pole in img_315.png: 0.7567483186721802
+--------------
+IMAGE SAVED ! IoU of class pole in img_318.png: 8.61420726776123
+--------------
+IMAGE SAVED ! IoU of class pole in img_309.png: 13.018433570861816
+--------------
+IMAGE SAVED ! IoU of class pole in img_287.png: 13.174957275390625
+--------------
+IMAGE SAVED ! IoU of class pole in img_402.png: 13.634652137756348
+--------------
+IMAGE SAVED ! IoU of class pole in img_314.png: 13.701547622680664
+--------------
+IMAGE SAVED ! IoU of class pole in img_317.png: 14.278594970703125
+--------------
+IMAGE SAVED ! IoU of class pole in img_262.png: 16.688838958740234
+--------------
+IMAGE SAVED ! IoU of class pole in img_325.png: 18.620330810546875
+--------------
+IMAGE SAVED ! IoU of class pole in img_308.png: 22.565885543823242
+--------------
+IMAGE SAVED ! IoU of class pole in img_236.png: 22.870271682739258
+--------------
+IMAGE SAVED ! IoU of class pole in img_201.png: 23.347787857055664
+--------------
+IMAGE SAVED ! IoU of class pole in img_345.png: 26.47307586669922
+--------------
+IMAGE SAVED ! IoU of class pole in img_313.png: 27.727848052978516
+--------------
+IMAGE SAVED ! IoU of class pole in img_319.png: 28.963964462280273
+--------------
+IMAGE SAVED ! IoU of class pole in img_181.png: 31.453609466552734
+--------------
+IMAGE SAVED ! IoU of class pole in img_305.png: 31.93460464477539
+--------------
+IMAGE SAVED ! IoU of class pole in img_190.png: 33.520870208740234
+--------------
+IMAGE SAVED ! IoU of class pole in img_300.png: 34.70808792114258
+--------------
+IMAGE SAVED ! IoU of class pole in img_467.png: 35.17945861816406
+--------------
+IMAGE SAVED ! IoU of class pole in img_366.png: 36.00840377807617
+--------------
+IMAGE SAVED ! IoU of class pole in img_202.png: 37.5857048034668
+--------------
+IMAGE SAVED ! IoU of class pole in img_306.png: 38.297874450683594
+--------------
+IMAGE SAVED ! IoU of class pole in img_438.png: 39.07841110229492
+--------------
+IMAGE SAVED ! IoU of class pole in img_283.png: 41.119163513183594
+--------------
+IMAGE SAVED ! IoU of class pole in img_316.png: 42.32444763183594
+--------------
+IMAGE SAVED ! IoU of class pole in img_248.png: 42.73422622680664
+--------------
+IMAGE SAVED ! IoU of class rider in img_18.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_64.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_67.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_75.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_101.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_144.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_187.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_196.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_224.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_233.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_241.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_352.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_454.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_470.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_476.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_487.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class rider in img_491.png: 0.20790021121501923
+--------------
+IMAGE SAVED ! IoU of class rider in img_30.png: 0.3464203476905823
+--------------
+IMAGE SAVED ! IoU of class rider in img_26.png: 0.5681818127632141
+--------------
+IMAGE SAVED ! IoU of class rider in img_386.png: 2.667534112930298
+--------------
+IMAGE SAVED ! IoU of class rider in img_347.png: 3.840472459793091
+--------------
+IMAGE SAVED ! IoU of class rider in img_132.png: 4.134615421295166
+--------------
+IMAGE SAVED ! IoU of class rider in img_248.png: 8.11124038696289
+--------------
+IMAGE SAVED ! IoU of class rider in img_333.png: 14.057618141174316
+--------------
+IMAGE SAVED ! IoU of class rider in img_199.png: 14.502761840820312
+--------------
+IMAGE SAVED ! IoU of class rider in img_141.png: 16.01423454284668
+--------------
+IMAGE SAVED ! IoU of class rider in img_74.png: 16.3153076171875
+--------------
+IMAGE SAVED ! IoU of class rider in img_398.png: 18.785310745239258
+--------------
+IMAGE SAVED ! IoU of class rider in img_203.png: 19.142065048217773
+--------------
+IMAGE SAVED ! IoU of class rider in img_88.png: 20.53333282470703
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_10.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_43.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_102.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_133.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_227.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_240.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_254.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_272.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_450.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_233.png: 14.414414405822754
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_491.png: 20.101137161254883
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_52.png: 20.947175979614258
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_357.png: 21.69312286376953
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_72.png: 29.878049850463867
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_328.png: 30.663616180419922
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_47.png: 31.428571701049805
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_37.png: 32.56410217285156
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_452.png: 32.63665771484375
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_70.png: 32.802860260009766
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_22.png: 32.84538269042969
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_446.png: 32.8670654296875
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_13.png: 33.10867691040039
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_125.png: 33.356449127197266
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_459.png: 34.32432556152344
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_331.png: 34.98542404174805
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_259.png: 35.25039291381836
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_129.png: 37.723575592041016
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_181.png: 38.152610778808594
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_427.png: 40.389678955078125
+--------------
+IMAGE SAVED ! IoU of class traffic light in img_484.png: 40.425533294677734
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_18.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_59.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_119.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_196.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_199.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_224.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_261.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_342.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_454.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_491.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_45.png: 0.05224660411477089
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_201.png: 2.9069769382476807
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_132.png: 7.1887030601501465
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_450.png: 8.204221725463867
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_135.png: 8.692119598388672
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_159.png: 10.186091423034668
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_133.png: 10.354223251342773
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_248.png: 14.5625
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_23.png: 16.853933334350586
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_73.png: 18.482421875
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_35.png: 21.55476951599121
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_347.png: 21.97125244140625
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_46.png: 22.761449813842773
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_203.png: 23.18501091003418
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_254.png: 23.463687896728516
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_345.png: 24.8447208404541
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_208.png: 25.564456939697266
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_447.png: 26.035503387451172
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_255.png: 27.542373657226562
+--------------
+IMAGE SAVED ! IoU of class bicycle in img_97.png: 27.62886619567871
+--------------
+IMAGE SAVED ! IoU of class train in img_55.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class train in img_145.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class train in img_230.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class train in img_254.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class train in img_141.png: 0.3487020432949066
+--------------
+IMAGE SAVED ! IoU of class train in img_26.png: 32.5513916015625
+--------------
+IMAGE SAVED ! IoU of class train in img_143.png: 55.63227081298828
+--------------
+IMAGE SAVED ! IoU of class train in img_144.png: 70.89557647705078
+--------------
+IMAGE SAVED ! IoU of class train in img_246.png: 79.33991241455078
+--------------
+IMAGE SAVED ! IoU of class train in img_11.png: 84.54803466796875
+--------------
+IMAGE SAVED ! IoU of class train in img_262.png: 87.29798126220703
+--------------
+IMAGE SAVED ! IoU of class train in img_140.png: 88.35386657714844
+--------------
+IMAGE SAVED ! IoU of class train in img_252.png: 89.4792709350586
+--------------
+IMAGE SAVED ! IoU of class train in img_28.png: 89.69171905517578
+--------------
+IMAGE SAVED ! IoU of class train in img_255.png: 91.7708511352539
+--------------
+IMAGE SAVED ! IoU of class train in img_13.png: 93.28723907470703
+--------------
+IMAGE SAVED ! IoU of class train in img_228.png: 93.5422134399414
+--------------
+IMAGE SAVED ! IoU of class train in img_148.png: 94.42825317382812
+--------------
+IMAGE SAVED ! IoU of class train in img_117.png: 95.09255981445312
+--------------
+IMAGE SAVED ! IoU of class train in img_0.png: 95.2928695678711
+--------------
+IMAGE SAVED ! IoU of class train in img_116.png: 95.64116668701172
+--------------
+IMAGE SAVED ! IoU of class train in img_91.png: 96.53564453125
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_314.png: 0.38314175605773926
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_467.png: 8.54570198059082
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_451.png: 12.738394737243652
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_269.png: 13.432836532592773
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_13.png: 14.40536117553711
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_417.png: 17.03296661376953
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_167.png: 21.83098602294922
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_205.png: 22.122936248779297
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_309.png: 23.994253158569336
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_29.png: 24.029218673706055
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_125.png: 24.414304733276367
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_379.png: 25.89927864074707
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_438.png: 28.025936126708984
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_147.png: 30.731170654296875
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_73.png: 36.09062957763672
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_423.png: 36.252296447753906
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_345.png: 36.86868667602539
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_476.png: 37.478031158447266
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_420.png: 39.761905670166016
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_234.png: 41.66977310180664
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_164.png: 43.83561706542969
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_270.png: 44.09302520751953
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_347.png: 44.97041320800781
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_418.png: 45.64459991455078
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_69.png: 46.56545639038086
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_181.png: 46.61513900756836
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_393.png: 47.6087760925293
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_171.png: 48.40764236450195
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_15.png: 48.95383834838867
+--------------
+IMAGE SAVED ! IoU of class traffic sign in img_351.png: 49.916343688964844
+--------------
+IMAGE SAVED ! IoU of class person in img_14.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_145.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_236.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_248.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_309.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_412.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_419.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class person in img_152.png: 0.8438818454742432
+--------------
+IMAGE SAVED ! IoU of class person in img_36.png: 2.9168124198913574
+--------------
+IMAGE SAVED ! IoU of class person in img_353.png: 5.477904796600342
+--------------
+IMAGE SAVED ! IoU of class person in img_404.png: 9.690126419067383
+--------------
+IMAGE SAVED ! IoU of class person in img_436.png: 12.765957832336426
+--------------
+IMAGE SAVED ! IoU of class person in img_496.png: 15.000000953674316
+--------------
+IMAGE SAVED ! IoU of class person in img_171.png: 15.282392501831055
+--------------
+IMAGE SAVED ! IoU of class person in img_328.png: 15.609349250793457
+--------------
+IMAGE SAVED ! IoU of class person in img_94.png: 16.474464416503906
+--------------
+IMAGE SAVED ! IoU of class person in img_139.png: 17.831668853759766
+--------------
+IMAGE SAVED ! IoU of class person in img_488.png: 23.39603614807129
+--------------
+IMAGE SAVED ! IoU of class person in img_9.png: 24.831754684448242
+--------------
+IMAGE SAVED ! IoU of class person in img_147.png: 25.8364315032959
+--------------
+IMAGE SAVED ! IoU of class person in img_46.png: 26.482481002807617
+--------------
+IMAGE SAVED ! IoU of class person in img_351.png: 26.577329635620117
+--------------
+IMAGE SAVED ! IoU of class person in img_261.png: 29.078012466430664
+--------------
+IMAGE SAVED ! IoU of class person in img_461.png: 29.927005767822266
+--------------
+IMAGE SAVED ! IoU of class person in img_162.png: 30.49289894104004
+--------------
+IMAGE SAVED ! IoU of class person in img_435.png: 32.45492172241211
+--------------
+IMAGE SAVED ! IoU of class person in img_62.png: 32.65479278564453
+--------------
+IMAGE SAVED ! IoU of class person in img_485.png: 35.89546203613281
+--------------
+IMAGE SAVED ! IoU of class person in img_126.png: 35.91549301147461
+--------------
+IMAGE SAVED ! IoU of class person in img_327.png: 36.282718658447266
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_94.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_166.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_125.png: 0.03444712609052658
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_459.png: 0.7275246977806091
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_408.png: 1.5020719766616821
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_295.png: 4.5694990158081055
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_135.png: 6.5521626472473145
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_276.png: 6.919647693634033
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_233.png: 11.419424057006836
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_254.png: 13.175058364868164
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_231.png: 14.56748104095459
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_292.png: 18.1789608001709
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_133.png: 21.171010971069336
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_243.png: 21.574344635009766
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_40.png: 24.09159278869629
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_269.png: 24.42986297607422
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_353.png: 27.74532699584961
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_249.png: 28.51105308532715
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_13.png: 29.44152069091797
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_228.png: 29.698345184326172
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_230.png: 30.42976188659668
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_53.png: 30.762313842773438
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_414.png: 32.06244659423828
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_481.png: 33.00391387939453
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_15.png: 33.56108856201172
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_39.png: 34.55646514892578
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_467.png: 37.70247268676758
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_224.png: 38.25581359863281
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_221.png: 38.29686737060547
+--------------
+IMAGE SAVED ! IoU of class sidewalk in img_161.png: 38.365360260009766
+--------------
+IMAGE SAVED ! IoU of class truck in img_121.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_133.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_146.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_152.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_265.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_300.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_337.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_347.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_354.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_367.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_399.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_406.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_443.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_445.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_457.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_492.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class truck in img_209.png: 0.056325335055589676
+--------------
+IMAGE SAVED ! IoU of class truck in img_91.png: 0.11278724670410156
+--------------
+IMAGE SAVED ! IoU of class truck in img_186.png: 5.385944843292236
+--------------
+IMAGE SAVED ! IoU of class truck in img_273.png: 7.19624137878418
+--------------
+IMAGE SAVED ! IoU of class truck in img_409.png: 16.926502227783203
+--------------
+IMAGE SAVED ! IoU of class truck in img_432.png: 26.116470336914062
+--------------
+IMAGE SAVED ! IoU of class truck in img_20.png: 35.25691604614258
+--------------
+IMAGE SAVED ! IoU of class truck in img_454.png: 38.79698944091797
+--------------
+IMAGE SAVED ! IoU of class truck in img_449.png: 41.518985748291016
+--------------
+IMAGE SAVED ! IoU of class truck in img_451.png: 46.17641067504883
+--------------
+IMAGE SAVED ! IoU of class truck in img_51.png: 49.829158782958984
+--------------
+IMAGE SAVED ! IoU of class truck in img_268.png: 50.153114318847656
+--------------
+IMAGE SAVED ! IoU of class truck in img_274.png: 53.83899688720703
+--------------
+IMAGE SAVED ! IoU of class truck in img_306.png: 56.300025939941406
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_197.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_198.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_287.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_339.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_474.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_475.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_80.png: 8.765621185302734
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_234.png: 17.641969680786133
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_291.png: 47.726356506347656
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_228.png: 52.19738006591797
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_299.png: 57.048561096191406
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_121.png: 60.52497100830078
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_83.png: 61.82238006591797
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_404.png: 63.217498779296875
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_263.png: 63.22875213623047
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_472.png: 66.35152435302734
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_131.png: 67.82257843017578
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_199.png: 68.16960906982422
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_217.png: 68.2546157836914
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_238.png: 70.7607421875
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_372.png: 70.78441619873047
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_6.png: 70.86834716796875
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_437.png: 72.55314636230469
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_72.png: 73.89446258544922
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_370.png: 74.75442504882812
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_262.png: 74.84009552001953
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_70.png: 75.24799346923828
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_161.png: 75.62387084960938
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_268.png: 75.82720947265625
+--------------
+IMAGE SAVED ! IoU of class vegetation in img_124.png: 77.62405395507812
+--------------
+IMAGE SAVED ! IoU of class bus in img_22.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_76.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_125.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_126.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_147.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_261.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_489.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class bus in img_209.png: 0.6933571696281433
+--------------
+IMAGE SAVED ! IoU of class bus in img_55.png: 26.52728271484375
+--------------
+IMAGE SAVED ! IoU of class bus in img_262.png: 41.278194427490234
+--------------
+IMAGE SAVED ! IoU of class bus in img_198.png: 47.223602294921875
+--------------
+IMAGE SAVED ! IoU of class bus in img_53.png: 66.79778289794922
+--------------
+IMAGE SAVED ! IoU of class bus in img_416.png: 72.00413513183594
+--------------
+IMAGE SAVED ! IoU of class bus in img_358.png: 73.87543487548828
+--------------
+IMAGE SAVED ! IoU of class bus in img_451.png: 75.40522766113281
+--------------
+IMAGE SAVED ! IoU of class bus in img_357.png: 75.7414779663086
+--------------
+IMAGE SAVED ! IoU of class bus in img_375.png: 76.19796752929688
+--------------
+IMAGE SAVED ! IoU of class bus in img_493.png: 78.89356231689453
+--------------
+IMAGE SAVED ! IoU of class bus in img_162.png: 79.05138397216797
+--------------
+IMAGE SAVED ! IoU of class bus in img_364.png: 82.00562286376953
+--------------
+IMAGE SAVED ! IoU of class bus in img_340.png: 82.94425964355469
+--------------
+IMAGE SAVED ! IoU of class bus in img_359.png: 85.58183288574219
+--------------
+IMAGE SAVED ! IoU of class bus in img_137.png: 87.33196258544922
+--------------
+IMAGE SAVED ! IoU of class bus in img_207.png: 88.71281433105469
+--------------
+IMAGE SAVED ! IoU of class bus in img_327.png: 88.79781341552734
+--------------
+IMAGE SAVED ! IoU of class bus in img_201.png: 89.82089233398438
+--------------
+IMAGE SAVED ! IoU of class bus in img_397.png: 90.4736557006836
+--------------
+IMAGE SAVED ! IoU of class bus in img_283.png: 90.70048522949219
+--------------
+IMAGE SAVED ! IoU of class bus in img_219.png: 90.75652313232422
+--------------
+IMAGE SAVED ! IoU of class bus in img_490.png: 91.10015869140625
+--------------
+IMAGE SAVED ! IoU of class building in img_496.png: 22.083545684814453
+--------------
+IMAGE SAVED ! IoU of class building in img_137.png: 42.34738540649414
+--------------
+IMAGE SAVED ! IoU of class building in img_57.png: 46.66330337524414
+--------------
+IMAGE SAVED ! IoU of class building in img_101.png: 49.122379302978516
+--------------
+IMAGE SAVED ! IoU of class building in img_281.png: 49.36323165893555
+--------------
+IMAGE SAVED ! IoU of class building in img_493.png: 49.745826721191406
+--------------
+IMAGE SAVED ! IoU of class building in img_309.png: 56.684791564941406
+--------------
+IMAGE SAVED ! IoU of class building in img_419.png: 57.15548324584961
+--------------
+IMAGE SAVED ! IoU of class building in img_198.png: 57.59104919433594
+--------------
+IMAGE SAVED ! IoU of class building in img_442.png: 58.495330810546875
+--------------
+IMAGE SAVED ! IoU of class building in img_197.png: 58.772979736328125
+--------------
+IMAGE SAVED ! IoU of class building in img_497.png: 63.42924118041992
+--------------
+IMAGE SAVED ! IoU of class building in img_363.png: 63.607521057128906
+--------------
+IMAGE SAVED ! IoU of class building in img_432.png: 63.76226043701172
+--------------
+IMAGE SAVED ! IoU of class building in img_227.png: 64.15995788574219
+--------------
+IMAGE SAVED ! IoU of class building in img_156.png: 64.32869720458984
+--------------
+IMAGE SAVED ! IoU of class building in img_459.png: 64.47613525390625
+--------------
+IMAGE SAVED ! IoU of class building in img_448.png: 65.3080825805664
+--------------
+IMAGE SAVED ! IoU of class building in img_322.png: 65.76063537597656
+--------------
+IMAGE SAVED ! IoU of class building in img_457.png: 66.73963928222656
+--------------
+IMAGE SAVED ! IoU of class building in img_263.png: 67.28888702392578
+--------------
+IMAGE SAVED ! IoU of class building in img_234.png: 67.53690338134766
+--------------
+IMAGE SAVED ! IoU of class building in img_460.png: 68.20572662353516
+--------------
+IMAGE SAVED ! IoU of class building in img_80.png: 69.43003845214844
+--------------
+IMAGE SAVED ! IoU of class building in img_257.png: 69.59782409667969
+--------------
+IMAGE SAVED ! IoU of class building in img_158.png: 71.2695541381836
+--------------
+IMAGE SAVED ! IoU of class building in img_176.png: 71.31409454345703
+--------------
+IMAGE SAVED ! IoU of class building in img_84.png: 71.80663299560547
+--------------
+IMAGE SAVED ! IoU of class building in img_245.png: 71.84575653076172
+--------------
+IMAGE SAVED ! IoU of class building in img_161.png: 72.40724182128906
+--------------
+IMAGE SAVED ! IoU of class sky in img_310.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class sky in img_480.png: 1.826709508895874
+--------------
+IMAGE SAVED ! IoU of class sky in img_304.png: 17.0433349609375
+--------------
+IMAGE SAVED ! IoU of class sky in img_301.png: 17.182273864746094
+--------------
+IMAGE SAVED ! IoU of class sky in img_90.png: 17.76315689086914
+--------------
+IMAGE SAVED ! IoU of class sky in img_297.png: 20.813007354736328
+--------------
+IMAGE SAVED ! IoU of class sky in img_298.png: 23.674476623535156
+--------------
+IMAGE SAVED ! IoU of class sky in img_341.png: 27.351028442382812
+--------------
+IMAGE SAVED ! IoU of class sky in img_325.png: 30.994691848754883
+--------------
+IMAGE SAVED ! IoU of class sky in img_322.png: 34.58856964111328
+--------------
+IMAGE SAVED ! IoU of class sky in img_137.png: 36.633663177490234
+--------------
+IMAGE SAVED ! IoU of class sky in img_427.png: 39.93627166748047
+--------------
+IMAGE SAVED ! IoU of class sky in img_343.png: 49.43073272705078
+--------------
+IMAGE SAVED ! IoU of class sky in img_347.png: 51.924354553222656
+--------------
+IMAGE SAVED ! IoU of class sky in img_399.png: 52.100608825683594
+--------------
+IMAGE SAVED ! IoU of class sky in img_354.png: 52.77491760253906
+--------------
+IMAGE SAVED ! IoU of class sky in img_411.png: 54.14984130859375
+--------------
+IMAGE SAVED ! IoU of class sky in img_318.png: 60.33057403564453
+--------------
+IMAGE SAVED ! IoU of class sky in img_489.png: 65.0997543334961
+--------------
+IMAGE SAVED ! IoU of class sky in img_479.png: 66.07620239257812
+--------------
+IMAGE SAVED ! IoU of class sky in img_418.png: 66.18629455566406
+--------------
+IMAGE SAVED ! IoU of class sky in img_323.png: 66.3036880493164
+--------------
+IMAGE SAVED ! IoU of class sky in img_74.png: 66.73978424072266
+--------------
+IMAGE SAVED ! IoU of class sky in img_309.png: 69.85816192626953
+--------------
+IMAGE SAVED ! IoU of class sky in img_419.png: 70.24597930908203
+--------------
+IMAGE SAVED ! IoU of class sky in img_282.png: 71.1502685546875
+--------------
+IMAGE SAVED ! IoU of class sky in img_82.png: 71.1981430053711
+--------------
+IMAGE SAVED ! IoU of class sky in img_303.png: 71.29136657714844
+--------------
+IMAGE SAVED ! IoU of class sky in img_254.png: 71.32701110839844
+--------------
+IMAGE SAVED ! IoU of class sky in img_118.png: 71.45938110351562
+--------------
+IMAGE SAVED ! IoU of class car in img_137.png: 3.1577796936035156
+--------------
+IMAGE SAVED ! IoU of class car in img_79.png: 11.455557823181152
+--------------
+IMAGE SAVED ! IoU of class car in img_199.png: 17.946256637573242
+--------------
+IMAGE SAVED ! IoU of class car in img_78.png: 20.541885375976562
+--------------
+IMAGE SAVED ! IoU of class car in img_290.png: 32.01530456542969
+--------------
+IMAGE SAVED ! IoU of class car in img_68.png: 34.370025634765625
+--------------
+IMAGE SAVED ! IoU of class car in img_81.png: 34.80687713623047
+--------------
+IMAGE SAVED ! IoU of class car in img_96.png: 35.91549301147461
+--------------
+IMAGE SAVED ! IoU of class car in img_115.png: 41.00789260864258
+--------------
+IMAGE SAVED ! IoU of class car in img_470.png: 44.900001525878906
+--------------
+IMAGE SAVED ! IoU of class car in img_291.png: 45.29322814941406
+--------------
+IMAGE SAVED ! IoU of class car in img_51.png: 52.14007568359375
+--------------
+IMAGE SAVED ! IoU of class car in img_317.png: 54.27703094482422
+--------------
+IMAGE SAVED ! IoU of class car in img_72.png: 57.41636657714844
+--------------
+IMAGE SAVED ! IoU of class car in img_204.png: 58.0
+--------------
+IMAGE SAVED ! IoU of class car in img_63.png: 58.75349044799805
+--------------
+IMAGE SAVED ! IoU of class car in img_367.png: 58.99334716796875
+--------------
+IMAGE SAVED ! IoU of class car in img_459.png: 59.17633819580078
+--------------
+IMAGE SAVED ! IoU of class car in img_318.png: 62.11631774902344
+--------------
+IMAGE SAVED ! IoU of class car in img_460.png: 63.82086944580078
+--------------
+IMAGE SAVED ! IoU of class car in img_116.png: 64.04387664794922
+--------------
+IMAGE SAVED ! IoU of class car in img_330.png: 64.74464416503906
+--------------
+IMAGE SAVED ! IoU of class car in img_462.png: 65.35087585449219
+--------------
+IMAGE SAVED ! IoU of class car in img_473.png: 67.24955749511719
+--------------
+IMAGE SAVED ! IoU of class car in img_16.png: 67.55830383300781
+--------------
+IMAGE SAVED ! IoU of class car in img_176.png: 72.56631469726562
+--------------
+IMAGE SAVED ! IoU of class car in img_85.png: 72.63693237304688
+--------------
+IMAGE SAVED ! IoU of class car in img_59.png: 73.37446594238281
+--------------
+IMAGE SAVED ! IoU of class car in img_103.png: 74.31407928466797
+--------------
+IMAGE SAVED ! IoU of class car in img_428.png: 75.2816162109375
+--------------
+IMAGE SAVED ! IoU of class road in img_301.png: 0.0
+--------------
+IMAGE SAVED ! IoU of class road in img_100.png: 56.80518341064453
+--------------
+IMAGE SAVED ! IoU of class road in img_295.png: 66.4418716430664
+--------------
+IMAGE SAVED ! IoU of class road in img_292.png: 68.825439453125
+--------------
+IMAGE SAVED ! IoU of class road in img_54.png: 69.31413269042969
+--------------
+IMAGE SAVED ! IoU of class road in img_408.png: 80.50836944580078
+--------------
+IMAGE SAVED ! IoU of class road in img_230.png: 80.56842803955078
+--------------
+IMAGE SAVED ! IoU of class road in img_287.png: 81.58096313476562
+--------------
+IMAGE SAVED ! IoU of class road in img_293.png: 87.68391418457031
+--------------
+IMAGE SAVED ! IoU of class road in img_298.png: 87.82699584960938
+--------------
+IMAGE SAVED ! IoU of class road in img_303.png: 90.02740478515625
+--------------
+IMAGE SAVED ! IoU of class road in img_467.png: 92.91783905029297
+--------------
+IMAGE SAVED ! IoU of class road in img_310.png: 93.12765502929688
+--------------
+IMAGE SAVED ! IoU of class road in img_82.png: 93.82640838623047
+--------------
+IMAGE SAVED ! IoU of class road in img_289.png: 94.12361145019531
+--------------
+IMAGE SAVED ! IoU of class road in img_0.png: 94.26119232177734
+--------------
+IMAGE SAVED ! IoU of class road in img_278.png: 94.7514877319336
+--------------
+IMAGE SAVED ! IoU of class road in img_85.png: 94.94770812988281
+--------------
+IMAGE SAVED ! IoU of class road in img_297.png: 95.20347595214844
+--------------
+IMAGE SAVED ! IoU of class road in img_138.png: 95.20399475097656
+--------------
+IMAGE SAVED ! IoU of class road in img_347.png: 95.22843933105469
+--------------
+IMAGE SAVED ! IoU of class road in img_49.png: 95.3072509765625
+--------------
+IMAGE SAVED ! IoU of class road in img_231.png: 95.50730895996094
+--------------
+IMAGE SAVED ! IoU of class road in img_353.png: 95.53021240234375
+--------------
+IMAGE SAVED ! IoU of class road in img_279.png: 95.55976104736328
+--------------
+IMAGE SAVED ! IoU of class road in img_281.png: 95.7762451171875
+--------------
+IMAGE SAVED ! IoU of class road in img_207.png: 95.80789947509766
+--------------
+IMAGE SAVED ! IoU of class road in img_18.png: 95.80980682373047
+--------------
+IMAGE SAVED ! IoU of class road in img_98.png: 95.9375228881836
+--------------
+IMAGE SAVED ! IoU of class road in img_137.png: 96.06692504882812
+--------------

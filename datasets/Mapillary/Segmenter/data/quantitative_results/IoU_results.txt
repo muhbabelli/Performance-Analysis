@@ -1,0 +1,21 @@
+- Overall mIoU value: 59.02
+- Class IoU values:
+rider: 23.40
+bus: 27.69
+terrain: 31.61
+pole: 44.06
+train: 44.33
+wall: 46.56
+sidewalk: 48.39
+traffic light: 50.04
+fence: 50.72
+bicycle: 56.46
+motorcycle: 57.21
+truck: 66.10
+person: 67.44
+traffic sign: 71.34
+vegetation: 80.23
+car: 81.51
+building: 87.22
+road: 90.04
+sky: 97.06
